@@ -1,5 +1,5 @@
 # MIDI Router
-
+works very well in combination with [midi router](https://www.tobias-erichsen.de/software/loopmidi.html)
 ## Overview
 
 MIDI Router is a PyQt6-based application that allows you to route MIDI messages from an input port to multiple output ports. It provides a graphical user interface to select MIDI input and output ports, start and stop the message forwarding, and display the forwarded MIDI messages.
